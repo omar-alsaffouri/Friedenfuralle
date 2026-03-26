@@ -9,7 +9,7 @@ import { slideIn } from '../utils/motion'
 const ReactVideoPlayer = () => {
   // Ersetze 'DEINE_VIDEO_ID' durch den Code am Ende deiner YouTube-URL
   // Beispiel: https://www.youtube.com/watch?v=dQw4w9WgXcQ -> ID ist dQw4w9WgXcQ
-  
+  const youtubeId = "PLIi99mjcHs"; 
 
   return (
     <div className='xl:mt-12 flex xl:flex-row flex-col gap-10 overflow-hidden'>
@@ -24,7 +24,7 @@ const ReactVideoPlayer = () => {
         <div className='relative w-full aspect-video mt-5'>
           <iframe
             className='w-full h-full rounded-xl shadow-card'
-            src={`https://youtu.be/PLIi99mjcHs?si=Plvs9n_b2T3dzT59`}
+            src={`https://www.youtube.com/embed/${youtubeId}`}
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
