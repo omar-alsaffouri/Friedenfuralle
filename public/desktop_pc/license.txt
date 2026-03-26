@@ -1,0 +1,11 @@
+Model Information:
+* title:	Syria
+* source:	https://sketchfab.com/3d-models/syria-0dbcb01b6fda4016b589d81e171c1389
+* author:	Raed 47 (https://sketchfab.com/raeed354)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Syria" (https://sketchfab.com/3d-models/syria-0dbcb01b6fda4016b589d81e171c1389) by Raed 47 (https://sketchfab.com/raeed354) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
